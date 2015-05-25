@@ -3,3 +3,6 @@
 	br = branch
 	ci = commit
 	st = status
+[user]
+	name = Matt Uttridge
+	email = matt@trazyinc.com
