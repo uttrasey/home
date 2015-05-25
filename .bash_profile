@@ -11,4 +11,10 @@ if [ -f ~/.git-prompt.sh ]; then
   . ~/.git-prompt.sh
 fi
 
+#git prompt
+if [ -f ~/.bash_aliases ]; then
+  . ~/.bash_aliases
+fi
+
+
 PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
