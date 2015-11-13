@@ -1,0 +1,8 @@
+packages: [
+  "last-cursor-position"
+  "linter"
+  "linter-eslint"
+  "package-sync"
+  "react"
+  "recent-projects"
+]
